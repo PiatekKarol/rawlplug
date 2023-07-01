@@ -1,0 +1,2 @@
+1) https://github.com/elgentos/magento2-cypress-testing-suite
+2) https://e.rawlplug.com/pl-pl
